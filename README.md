@@ -27,5 +27,5 @@ Format
   - symbol: `—`
   - human-ver: `-`
   - empirical evidence:
-    Personal experience.
+    Personal experience, and [this wiki page](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing#Overuse_of_em_dashes)
 
