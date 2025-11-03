@@ -4,7 +4,7 @@ This is an empirical list of symbols that LLM tends to generate while human writ
 
 These symbols are usually hard to type on a typical keyboard without using a special editor like Microsoft Word, which is why they are less used by human.
 
-> Disclaimer: This list is very subjective. I'm not a native English speaker, and my usage of English is primarily restricted to reading and writing technical stuff, such as paper, textbook, post.
+> **Disclaimer**: **This list is very subjective**. I'm a programmer and I'm not a native English speaker. My usage of English is primarily restricted to reading and writing computer-science-related stuff, such as papers, textbooks, and posts. I tend to make mistakes that others with similar background will make, and that's what distinguishes AI-generated texts from human-written text for people like me. For different demographics, such as professional English writer, this list won't be very helpful.
 
 ## How to use this doc?
 
@@ -17,15 +17,32 @@ These symbols are usually hard to type on a typical keyboard without using a spe
 Format
 ```
 - <symbol name>
+
   - symbol: `<the actual symbol>`
+
   - human-ver: `<the more-likely-to-be-human alternative>`
+
   - empirical evidence:
+
     <an optional section that documents why I think this looks AI>
 ```
 
 - em dash
+  
   - symbol: `—`
+    
   - human-ver: `-`
+ 
   - empirical evidence:
+    
     Personal experience, and [this wiki page](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing#Overuse_of_em_dashes)
 
+- ellipsis
+  
+  - symbol: `…`
+ 
+  - human-ver: `...`
+    
+  - empirical evidence:
+  
+    Personal experience
