@@ -46,3 +46,15 @@ Format
   - empirical evidence:
   
     Personal experience
+
+- less than or equal to (and related ones like greater than)
+
+  
+  - symbol: `≤`
+
+  - human-ver: `<=`
+
+  - empirical evidence:
+
+    Personal experience
+
