@@ -58,11 +58,11 @@ Format
 
     Personal experience
 
-- english double quote
+- typographic double quote
 
   - symbol: `“` (and `”`)
  
-  - human-ver: `"`
+  - human-ver: `"`, known as [*dumb quote*](https://en.wikipedia.org/wiki/Quotation_mark#Typographic_forms)
  
   - empirical evidence:
 
