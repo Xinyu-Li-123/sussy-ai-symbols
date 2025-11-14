@@ -58,3 +58,12 @@ Format
 
     Personal experience
 
+- english double quote
+
+  - symbol: `“` (and `”`)
+ 
+  - human-ver: `"`
+ 
+  - empirical evidence:
+
+    Personal experience
