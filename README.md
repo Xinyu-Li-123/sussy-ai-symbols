@@ -25,6 +25,7 @@ Format
   - empirical evidence:
 
     <an optional section that documents why I think this looks AI>
+    (if it's only personal experience, we may skip this section)
 ```
 
 - em dash
@@ -35,17 +36,13 @@ Format
  
   - empirical evidence:
     
-    Personal experience, and [this wiki page](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing#Overuse_of_em_dashes)
+    [This wiki page](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing#Overuse_of_em_dashes)
 
 - ellipsis
   
   - symbol: `…`
  
   - human-ver: `...`
-    
-  - empirical evidence:
-  
-    Personal experience
 
 - less than or equal to (and related ones like greater than)
 
@@ -54,16 +51,14 @@ Format
 
   - human-ver: `<=`
 
-  - empirical evidence:
-
-    Personal experience
-
 - typographic double quote
 
   - symbol: `“` (and `”`)
- 
-  - human-ver: `"`, known as [*dumb quote*](https://en.wikipedia.org/wiki/Quotation_mark#Typographic_forms)
- 
-  - empirical evidence:
 
-    Personal experience
+  - human-ver: `"`, known as [*dumb quote*](https://en.wikipedia.org/wiki/Quotation_mark#Typographic_forms)
+
+- all kinds of arrow
+
+  - symbol: `↔`
+  
+  - human-ver: `<->`
